@@ -23,3 +23,5 @@
 hs_err_pid*
 /.classpath
 /.project
+/github_id_rsa
+/github_id_rsa.pub
